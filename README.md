@@ -1,4 +1,4 @@
 # C-Project-Lab
-מעבדה בתכנות מערכות - פרויקט גמר
+## Final Project
 ##  Developing assembler program for a given assembly language.
 
